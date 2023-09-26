@@ -1,0 +1,4 @@
+baseURL = 'https://manytreesofculture.org/'
+languageCode = 'en-us'
+title = 'MANY TREES OF CULTURE'
+theme = 'hugo-theme-nostyleplease'
